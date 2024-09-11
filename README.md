@@ -11,3 +11,8 @@ The domains are:
 
 More Domains coming soon
 
+---
+
+**Edit:** [Thedev42](https://github.com/TheDev42/Project-Domain/blob/main/mx.dev42.co.uk.yaml)
+
+**Edit:** [Baddev](https://github.com/TheDev42/Project-Domain/blob/main/mx.baddev.co.uk.yaml)
